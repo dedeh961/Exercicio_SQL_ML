@@ -6,4 +6,6 @@ Projeto com 3 partes:\
 -1º Query na base dados, exportei como excel para facilitar visualização\
 -2º Segmentação (Clusterização)\
 
-OBS: Preferi construir tudo em python para ficar mais organizado, o único passo fora foi a criação da base no pg4Admin.
+OBS: Preferi construir tudo em python para ficar mais organizado, o único passo fora foi a criação da base no pg4Admin.\
+
+O projeto pode ser acessado em https://github.com/dedeh961/Exercicio_SQL_ML\
