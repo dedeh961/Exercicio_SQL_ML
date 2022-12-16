@@ -5,3 +5,5 @@ Projeto com 3 partes:\
     Fiz algumas modificações e limpeza na base\
 -1º Query na base dados, exportei como excel para facilitar visualização\
 -2º Segmentação (Clusterização)\
+
+OBS: Preferi construir tudo em python para ficar mais organizado, o único passo fora foi a criação da base no pg4Admin.
